@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="images/icons/Twitter-Birds.ico"/>
+	 <link rel="icon" type="image/png" href="images/icons/Twitter-Birds.ico"/>
 
 	<!-- <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 
@@ -19,7 +19,7 @@
 
 	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
 
-	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css"> 
 
 	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css"> -->
 
@@ -31,13 +31,15 @@
 	
 	<div class="limiter">
 		<div class="container-login100" style="background-image: url('images/bg-01.jpg');">
-			
+        <?php
+            echo "adadasd";
+        ?>
 		</div>
 	</div>
 	
 
 
-	
+  
 
 
 </body>
